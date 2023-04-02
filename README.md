@@ -1,2 +1,2 @@
 # NewCodingForMe
-New repo for my upskilling
+New repo as part of upskilling
